@@ -16,7 +16,7 @@ Publish it with `dotnet publish`, register it as a Windows service with `sc.exe 
 ## License
 ```
 SleepRemote - control Windows power state remotely, quickly
-Copyright (C) 2024 Homura Akemi (Nightshade System) <hi@sylvie.software>
+Copyright (C) 2024 Sylvie Nightshade <hi@sylvie.software>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
